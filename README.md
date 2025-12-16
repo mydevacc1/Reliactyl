@@ -3,9 +3,7 @@
   
   # Reliactyl
   
-  **Made with 💗 by [Danish](https://danishfolio.cc)**
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-Reliactyl-blue?style=for-the-badge&logo=github)](https://github.com/danishzzx/Reliactyl.git)
+  [![GitHub](https://img.shields.io/badge/GitHub-Reliactyl-blue?style=for-the-badge&logo=github)](https://github.com/mydevacc1/Reliactyl.git)
   
   <p>
     The best Pterodactyl client area. A feature-rich dashboard for managing resources, earning coins, and creating servers.
@@ -79,7 +77,7 @@ Reliactyl comes packed with amazing features to enhance your Pterodactyl experie
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/danishzzx/Reliactyl.git
+   git clone https://github.com/mydevacc1/Reliactyl.git
    cd Reliactyl
    ```
 
@@ -127,9 +125,9 @@ If you find this project helpful and want to support its development, you can do
 
 | Currency | Address |
 | :--- | :--- |
-| **LTC (Litecoin)** | `LLy9cDwo6N2gGjsM2XwUg8Sb2FGYi3vmgX` |
-| **BTC (Bitcoin)** | `bc1qa0rr2ruuw0ygpmwwvg5kchlywwfxxpa7j0sxk4` |
-| **ETH (Ethereum)** | `0xb9F168D0d2b1cD9B838d918583Bdbc2a813e35Ef` |
+| **LTC (Litecoin)** | `LiQ1YDjumxiBrxMeokQe1Zip7W8rx5R85g` |
+| **BTC (Bitcoin)** | `LiQ1YDjumxiBrxMeokQe1Zip7W8rx5R85g` |
+| **ETH (Ethereum)** | `0xdAE8D2D8Cf928204e889557d6cE8b15B3D682459` |
 
 > *All addresses are on their respective mainnets.*
 
@@ -137,8 +135,8 @@ If you find this project helpful and want to support its development, you can do
 
 ## 🤝 Support & Credits
 
-- **Developer**: [Danish](https://danishfolio.cc)
-- **GitHub**: [danishzzx/Reliactyl](https://github.com/danishzzx/Reliactyl.git)
+- **Developer**: [MyDevAcc](https://omninodes.xyz/) [Danish](https://danishfolio.cc)
+- **GitHub**: [mydevacc1/Reliactyl](https://github.com/mydevacc1/Reliactyl.git)
 
 ---
 
