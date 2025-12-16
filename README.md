@@ -135,7 +135,7 @@ If you find this project helpful and want to support its development, you can do
 
 ## 🤝 Support & Credits
 
-- **Developer**: [MyDevAcc](https://omninodes.xyz/) [Danish](https://danishfolio.cc)
+- **Developer**: [MyDevAcc](https://omninodes.xyz/) [Danish](https://danishfolio.cc) _mojora
 - **GitHub**: [mydevacc1/Reliactyl](https://github.com/mydevacc1/Reliactyl.git)
 
 ---
